@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Lcyitar\Example;
+namespace Lcyitar\Package\Example;
 
 
 class example
