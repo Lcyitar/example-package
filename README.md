@@ -1,4 +1,7 @@
-# example-package
-发布自己的Package
+## About SayHello
 
-lcyitar/package demo
+can say hello world!
+
+## use SayHello
+
+``composer require lcyitar/example-package``

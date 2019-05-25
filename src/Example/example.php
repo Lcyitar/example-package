@@ -6,8 +6,8 @@ namespace Lcyitar\Example;
 
 class example
 {
-    public function hey()
+    public function say()
     {
-        echo 'hello world';
+        echo 'hello world ^_^';
     }
 }
